@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Practica01/Practica01-RepasoPOO.csproj" />
+  <Project Path="Practica02-StrategyIterator/Practica02-StrategyIterator.csproj" />
+  <Project Path="Practica02_FactoryObserverDecorator/Practica02_FactoryObserverDecorator.csproj" />
+</Solution>
