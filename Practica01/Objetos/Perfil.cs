@@ -4,8 +4,8 @@ namespace Practica01.Objetos
 {
     public abstract class Perfil : Comparable
     {
-        private string nombre;
-        private int id;
+        protected string nombre;
+        protected int id;
 
         public Perfil(string n, int i)
         {

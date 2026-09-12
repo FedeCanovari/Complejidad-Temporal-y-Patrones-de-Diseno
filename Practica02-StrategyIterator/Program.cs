@@ -42,6 +42,7 @@ namespace Practica02_StrategyIterator
             }
         }
 
+        // Iterar e imprimir elementos de una colección
         public static void imprimirElementos(Iterable iterable)
         {
             Iterador iterador = iterable.crearIterador();

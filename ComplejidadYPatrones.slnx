@@ -1,5 +1,12 @@
 <Solution>
   <Project Path="Practica01/Practica01-RepasoPOO.csproj" />
   <Project Path="Practica02-StrategyIterator/Practica02-StrategyIterator.csproj" />
-  <Project Path="Practica02_FactoryObserverDecorator/Practica02_FactoryObserverDecorator.csproj" />
+  <Project Path="Practica02_FactoryObserverDecorator/Practica02-FactoryObserverDecorator.csproj" />
+  <Project Path="Practica03-Adapter/Practica03-Adapter.csproj" Id="e8cb10d6-b114-4d50-a9e9-1d99e9ce1704" />
+  <Project Path="Practica03-ChainOfResponsibility/Practica03-ChainOfResponsibility.csproj" Id="f986c559-0212-41f3-a784-bd229f2ceee9" />
+  <Project Path="Practica03-Command/Practica03-Command.csproj" Id="5cd4a4b5-645f-4bf1-a064-1c1faf41ac15" />
+  <Project Path="Practica03-Composite/Practica03-Composite.csproj" Id="1447f7b7-ab8a-459d-b374-5b640849eeaf" />
+  <Project Path="Practica03-Proxy/Practica03-Proxy.csproj" Id="6fcda858-3ea7-4541-99c3-6865bc025d7d" />
+  <Project Path="Practica03-Singleton/Practica03-Singleton.csproj" Id="d2f1d261-1a7c-40c5-a5c1-ecabbf8c9dad" />
+  <Project Path="Practica03-TemplateMethod/Practica03-TemplateMethod.csproj" Id="6149505d-1364-4e75-ae72-0c0a25cc0b79" />
 </Solution>

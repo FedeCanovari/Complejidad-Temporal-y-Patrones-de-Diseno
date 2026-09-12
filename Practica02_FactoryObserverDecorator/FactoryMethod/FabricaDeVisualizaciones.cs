@@ -7,9 +7,7 @@ namespace Practica02_FactoryObserverDecorator.FactoryMethod
     {
         public override Comparable crearAleatorio()
         {
-            return new Visualizacion(
-                generador.numeroAleatorio(100)
-            );
+            return new Visualizacion(generador.numeroAleatorio(100));
         }
 
         public override Comparable crearPorTeclado()

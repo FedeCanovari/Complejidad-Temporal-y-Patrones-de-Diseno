@@ -15,6 +15,8 @@ llenarSuscriptores(cola);
 
 Console.WriteLine("CATÁLOGO");
 informar(catalogo);
+
+
 void llenar(Coleccionable coleccionable)
 {
     try
