@@ -1,8 +1,8 @@
-﻿namespace Practica03_Command;
+namespace Practica03_Command;
 
 public class ControlRemoto
 {
-    private IComando ultimoComando;
+    private IComando? ultimoComando;
 
     public void ejecutar(IComando comando)
     {

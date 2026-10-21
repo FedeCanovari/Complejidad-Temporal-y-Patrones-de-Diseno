@@ -1,4 +1,4 @@
-﻿namespace Practica03_Command;
+namespace Practica03_Command;
 
 public interface IComando
 {

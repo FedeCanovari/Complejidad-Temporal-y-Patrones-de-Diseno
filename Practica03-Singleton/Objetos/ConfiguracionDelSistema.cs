@@ -1,8 +1,8 @@
-﻿namespace Practica03_Singleton;
+namespace Practica03_Singleton;
 
 public class ConfiguracionDelSistema
 {
-    private static ConfiguracionDelSistema instancia;
+    private static ConfiguracionDelSistema? instancia;
 
     private Dictionary<string, string> valores;
 

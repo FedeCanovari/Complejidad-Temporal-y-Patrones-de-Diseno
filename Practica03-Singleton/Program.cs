@@ -1,4 +1,4 @@
-﻿namespace Practica03_Singleton;
+namespace Practica03_Singleton;
 
 public class Program
 {

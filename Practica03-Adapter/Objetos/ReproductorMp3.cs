@@ -1,4 +1,4 @@
-﻿using Practica03_Adapter.Interfaces;
+using Practica03_Adapter.Interfaces;
 
 namespace Practica03_Adapter.Objetos;
 

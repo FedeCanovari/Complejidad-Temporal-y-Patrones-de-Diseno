@@ -1,8 +1,8 @@
-﻿namespace Practica03_Proxy;
+namespace Practica03_Proxy;
 
 public class DocumentoProxy : IDocumento
 {
-    private DocumentoReal documentoReal;
+    private DocumentoReal? documentoReal;
 
     public string leer(string usuario)
     {

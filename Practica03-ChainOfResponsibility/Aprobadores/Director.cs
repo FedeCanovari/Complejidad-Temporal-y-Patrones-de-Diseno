@@ -1,4 +1,4 @@
-﻿namespace Practica03_ChainOfResponsibility;
+namespace Practica03_ChainOfResponsibility;
 
 public class Director : AprobadorDeGastos
 {

@@ -1,4 +1,4 @@
-﻿namespace Practica03_Adapter;
+namespace Practica03_Adapter;
 
 public class ReproductorAvanzadoExterno
 {

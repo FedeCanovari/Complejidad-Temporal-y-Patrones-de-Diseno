@@ -1,4 +1,4 @@
-﻿namespace Practica03_Composite;
+namespace Practica03_Composite;
 
 public class Program
 {

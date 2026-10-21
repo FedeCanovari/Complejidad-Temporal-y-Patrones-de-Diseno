@@ -1,4 +1,4 @@
-﻿namespace Practica03_TemplateMethod;
+namespace Practica03_TemplateMethod;
 
 public class PreparadorDeCafe : PreparadorDeBebida
 {

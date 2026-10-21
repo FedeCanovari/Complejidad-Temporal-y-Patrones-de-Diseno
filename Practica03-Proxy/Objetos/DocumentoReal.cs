@@ -1,4 +1,4 @@
-﻿namespace Practica03_Proxy;
+namespace Practica03_Proxy;
 
 public class DocumentoReal : IDocumento
 {
