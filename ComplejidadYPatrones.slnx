@@ -18,4 +18,10 @@
     <Project Path="Practica03-Singleton/Practica03-Singleton.csproj" />
     <Project Path="Practica03-TemplateMethod/Practica03-TemplateMethod.csproj" />
   </Folder>
+  <Folder Name="/Práctica 4/">
+    <Project Path="Practica04/Ejercicio1/Ejercicio1/Ejercicio1.csproj" />
+    <Project Path="Practica04/Ejercicio2/Ejercicio2/Ejercicio2.csproj" />
+    <Project Path="Practica04/Ejercicio3/Ejercicio3/Ejercicio3.csproj" />
+    <Project Path="Practica04/Ejercicio4/Ejercicio4/Ejercicio4.csproj" />
+  </Folder>
 </Solution>
